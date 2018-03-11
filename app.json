@@ -1,0 +1,14 @@
+
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "orientation": "portrait",
+    "name": "Flashcards",
+    "description": "Flashcards, uai!",
+    "slug": "flashcards",
+    "version": "1.0",
+    "android": {
+     "package": "org.hugoflashcards.exp"
+    }
+  }
+}
